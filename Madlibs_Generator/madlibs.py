@@ -1,4 +1,4 @@
-with open("story","r") as f:
+with open("story") as f:
     story = f.read()
 
 words = []
